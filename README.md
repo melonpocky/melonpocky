@@ -1,3 +1,6 @@
+<!-- background: #fff -->
+<!-- color: #000 -->
+<!-- font: frutiger -->
 ### Hi there 👋
 
 <!--
