@@ -1,8 +1,9 @@
 
-<h1 align="center">ｍｅｌｏｎｐｏｃｋｙ
+<h1 align="center">🌸ｍｅｌｏｎｐｏｃｋｙ🌸
 
   
 ![](https://visitor-badge.glitch.me/badge?page_id=melonpocky.melonpocky) </br>
+ᵂʰᵃᵗ ᴵ ᴷᶰᵒʷ</br> 
   <img alt="Css" src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=flat" />
   ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
   <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=flat" />
@@ -17,6 +18,10 @@
   ![scikit-learn](https://img.shields.io/badge/Scikit--Learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)
   ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=%white)
   <!-- 
+
+<h4 align="center">
+mᆞeᆞlᆞoᆞnᆞpᆞoᆞcᆞkᆞy
+ｍｅｌｏｎｐｏｃｋｙ mᥱᥣoᥒρoᥴkყ 
   <img alt="C Sharp" src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white&style=for-the-badge" /> 
   -->
 <p align="center">
