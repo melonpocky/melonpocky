@@ -17,6 +17,26 @@
   ![NumPy](https://img.shields.io/badge/Numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
   ![scikit-learn](https://img.shields.io/badge/Scikit--Learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)
   ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=%white)
+
+
+
+  
+## My Certifications
+  <!-- 
+
+<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
+  -->
+<img src="https://img.shields.io/badge/GSEC-SANS%20GIAC-blue?style=flat&logo=security&logoColor=white" />
+
+
+
+  
+</div>
+
+  
   <!-- 
 
 <h4 align="center">
@@ -32,7 +52,7 @@ mᆞeᆞlᆞoᆞnᆞpᆞoᆞcᆞkᆞy
   <br>
 </p>
 </h1>
-
+  <!-- 
 <p align="center">
   ᆞOᆞUᆞIᆞJᆞAᆞ </br>
 ʏᴇs&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ɴᴏ </br>
@@ -41,14 +61,5 @@ mᆞeᆞlᆞoᆞnᆞpᆞoᆞcᆞkᆞy
 𝟷 𝟸 𝟹 𝟺 𝟻 𝟼 𝟽 </br>
 ɢᴏᴏᴅ ʙʏᴇ </br>
 </p>
+  -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning cybersecurity and intersections with society
-<!-- 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
--->
-- 📫 How to reach me: ...
-- 😄 Pronouns: R̴͖͑͐̈́̋͂͝E̵̡̨̩͚͛̈́̿͂̐͐Ḑ̶̟̻͍̳̐̓̐̌͌͋A̴̺̜̟͍͖̜͋́̂̉̂̍̓̆̈́͝C̷̨̛̖͖̼̠̤̰͖͖̜͆̓T̸̢̠͓̞̻͇̗͙̝̈́͑̀̀͊̓́̏̉͝É̸͕̬͚͚̩͒̎D̵͖̈̅͊̂͒̇̏̾̚͝ͅ
-- ⚡ Fun fact: ...
