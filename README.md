@@ -29,9 +29,11 @@
 <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
   -->
-<img src="https://img.shields.io/badge/GSEC-SANS%20GIAC-blue?style=flat&logo=security&logoColor=white" />
-<img src="https://img.shields.io/badge/GCIH-SANS%20GIAC-blue?style=flat&logo=security&logoColor=white" />
-<img src="https://img.shields.io/badge/GFACT-SANS%20GIAC-blue?style=flat&logo=security&logoColor=white" />
+
+<div>
+<img src="https://img.shields.io/badge/GSEC-SANS%20GIAC-blue?style=for-the-badge&logo=security&logoColor=white" />
+<img src="https://img.shields.io/badge/GCIH-SANS%20GIAC-blue?style=for-the-badge&logo=security&logoColor=white" />
+<img src="https://img.shields.io/badge/GFACT-SANS%20GIAC-blue?style=for-the-badge&logo=security&logoColor=white" />
 
   
 </div>
