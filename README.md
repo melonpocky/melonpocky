@@ -2,15 +2,18 @@
 <h1 align="center">🌸ｍｅｌｏｎｐｏｃｋｙ🌸</h1>
 
   
-![](https://visitor-badge.glitch.me/badge?page_id=melonpocky.melonpocky) </br>
-ᵂʰᵃᵗ ᴵ ᴷᶰᵒʷ</br> 
+
+
+<h4 align="center"> What I Know </h4> </br>
+<div align="center">
+  
+  ![](https://visitor-badge.glitch.me/badge?page_id=melonpocky.melonpocky) 
   <img alt="Css" src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=flat" />
   ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
   <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=flat" />
   ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=Java&logoColor=white)
   ![Qiskit](https://img.shields.io/badge/Qiskit-%236929C4.svg?style=flat&logo=Qiskit&logoColor=white)
   ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=flat&logo=Adobe%20XD&logoColor=#FF61F6)
-  </br>
   ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54) 
   ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat&logo=anaconda&logoColor=white)
   ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
@@ -18,24 +21,16 @@
   ![scikit-learn](https://img.shields.io/badge/Scikit--Learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)
   ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=%white)
 
-
+</div>
 
   
 <h4 align="center"> My Certifications </h4> </br>
-  <!-- 
 
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
--->
 
-<div>
+<div align="center">
 <img src="https://img.shields.io/badge/GSEC-SANS%20GIAC-blue?style=for-the-badge&logo=security&logoColor=white" />
 <img src="https://img.shields.io/badge/GCIH-SANS%20GIAC-red?style=for-the-badge&logo=security&logoColor=white" />
 <img src="https://img.shields.io/badge/GFACT-SANS%20GIAC-purple?style=for-the-badge&logo=security&logoColor=white" />
-
-  
 </div>
 
   
