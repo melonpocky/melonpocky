@@ -30,8 +30,8 @@
 <img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
   -->
 <img src="https://img.shields.io/badge/GSEC-SANS%20GIAC-blue?style=flat&logo=security&logoColor=white" />
-
-
+<img src="https://img.shields.io/badge/GCIH-SANS%20GIAC-blue?style=flat&logo=security&logoColor=white" />
+<img src="https://img.shields.io/badge/GFACT-SANS%20GIAC-blue?style=flat&logo=security&logoColor=white" />
 
   
 </div>
@@ -44,14 +44,7 @@ mᆞeᆞlᆞoᆞnᆞpᆞoᆞcᆞkᆞy
 ｍｅｌｏｎｐｏｃｋｙ mᥱᥣoᥒρoᥴkყ 
   <img alt="C Sharp" src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white&style=for-the-badge" /> 
   -->
-<p align="center">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=melonpocky&show_icons=true&count_private=true&theme=synthwave&hide_border=true&hide=issues,contribs&bg_color=00000000">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=melonpocky&layout=compact&hide_border=true&theme=synthwave&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
-  <img src ="https://github-readme-streak-stats.herokuapp.com?user=melonpocky&theme=synthwave&hide_border=true&background=FFFFFF00">
-  <br>
-  <br>
-</p>
-</h1>
+
   <!-- 
 <p align="center">
   ᆞOᆞUᆞIᆞJᆞAᆞ </br>
